@@ -1,13 +1,13 @@
 # calable-ETL-Data-Pipeline-Project
 
-API / CSV Data
+# API / CSV Data
       ↓
-Extract Script
+# Extract Script
       ↓
-Transform (Spark)
+# Transform (Spark)
       ↓
-Load to PostgreSQL
+# Load to PostgreSQL
       ↓
-Airflow Scheduler
+# Airflow Scheduler
       ↓
-Analytics Query
+# Analytics Query
